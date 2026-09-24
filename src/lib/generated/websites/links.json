@@ -1,50 +1,58 @@
 [
   {
-    "id": "1_BAF/Filip_D",
+    "id": "1_BAF/Test_1",
     "courseID": "1",
     "teacher": "BAF",
-    "title": "Filip D",
-    "url": "studentpages/1_BAF/Filip_D/index.html",
-    "thumbnailUrl": "studentpages/1_BAF/Filip_D/thumbnail.png"
+    "title": "Test 1",
+    "url": "studentpages/1_BAF/Test_1/index.html"
   },
   {
-    "id": "1_BAF/Junis_D",
+    "id": "1_BAF/Test_2",
     "courseID": "1",
     "teacher": "BAF",
-    "title": "Junis D",
-    "url": "studentpages/1_BAF/Junis_D/index.html",
-    "thumbnailUrl": "studentpages/1_BAF/Junis_D/thumbnail.png"
+    "title": "Test 2",
+    "url": "studentpages/1_BAF/Test_2/index.html"
   },
   {
-    "id": "1_BAF/Kian_K",
+    "id": "1_BAF/Test_3",
     "courseID": "1",
     "teacher": "BAF",
-    "title": "Kian K",
-    "url": "studentpages/1_BAF/Kian_K/index.html",
-    "thumbnailUrl": "studentpages/1_BAF/Kian_K/thumbnail.png"
+    "title": "Test 3",
+    "url": "studentpages/1_BAF/Test_3/index.html"
   },
   {
-    "id": "1_BAF/Lea_J",
+    "id": "1_BAF/Test_4",
     "courseID": "1",
     "teacher": "BAF",
-    "title": "Lea J",
-    "url": "studentpages/1_BAF/Lea_J/index.html",
-    "thumbnailUrl": "studentpages/1_BAF/Lea_J/thumbnail.png"
+    "title": "Test 4",
+    "url": "studentpages/1_BAF/Test_4/index.html"
   },
   {
-    "id": "1_BAF/Roman_H",
-    "courseID": "1",
-    "teacher": "BAF",
-    "title": "Roman H",
-    "url": "studentpages/1_BAF/Roman_H/index.html",
-    "thumbnailUrl": "studentpages/1_BAF/Roman_H/thumbnail.png"
+    "id": "2_BEH/Test_1",
+    "courseID": "2",
+    "teacher": "BEH",
+    "title": "Test 1",
+    "url": "studentpages/2_BEH/Test_1/index.html"
   },
   {
-    "id": "1_BAF/Sophia_H",
-    "courseID": "1",
-    "teacher": "BAF",
-    "title": "Sophia H",
-    "url": "studentpages/1_BAF/Sophia_H/index.html",
-    "thumbnailUrl": "studentpages/1_BAF/Sophia_H/thumbnail.png"
+    "id": "2_BEH/Test_2",
+    "courseID": "2",
+    "teacher": "BEH",
+    "title": "Test 2",
+    "url": "studentpages/2_BEH/Test_2/index.html"
+  },
+  {
+    "id": "2_BEH/Test_3",
+    "courseID": "2",
+    "teacher": "BEH",
+    "title": "Test 3",
+    "url": "studentpages/2_BEH/Test_3/index.html"
+  },
+  {
+    "id": "2_BEH/Test_4",
+    "courseID": "2",
+    "teacher": "BEH",
+    "title": "Test 4",
+    "url": "studentpages/2_BEH/Test_4/index.html"
   }
 ]
