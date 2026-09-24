@@ -29,7 +29,7 @@
 	</h1>
 
 	<h2>
-		<strong>am Apostelgymnasium Köln</strong>
+		<strong>am Apostelgymnasium Köln, 2026 bis 2028</strong>
 	</h2>
 </section>
 
